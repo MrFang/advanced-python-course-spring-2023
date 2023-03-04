@@ -1,0 +1,2 @@
+advanced-python-course-spring-2023-hw1-MrFang==0.0.2
+pdflatex==0.1.3
